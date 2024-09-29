@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<title>	</title>
+	<meta charset="utf-8">
+	</head>
+<body>
+
+<textarea>
+<!DOCTYPE html>
+<html>
+	 <head>
+		<title>zadanie 33-Krajewski_Antoni</title>
+		<meta charset="utf-8" />
+
+		<style type="text/css">
+			 h1 {
+			 width: 200px;
+			 height:2cm;
+			 padding : 50px;
+			 margin : 40px;
+			 border : 4px dotted purple;
+			 background : rgb(255,255,130);
+		 }
+		 h2 {
+			 width: 300px;
+			 height:1.5cm;
+			 padding : 30px;
+			 margin-left : 340px;
+			 border : 7px groove red;
+			 background : rgb(150,50,110);
+		 }
+		 h3 {
+			 width: 400px;
+			 height:0.5cm;
+			 padding : 20px;
+			 margin-left : 710px;
+			 border : 10px outset blue;
+			 background : rgb(100,100,100);
+		 }
+		 </style>
+	 </head>
+	 <body>
+	 <h1>Krajewski</h1>
+	 <h2>Antoni</h2>
+	 <h3>Klasa 3F grupa 1. 16.09.2024r.</h3>
+	 </body>
+</html>
+</textarea>
+
+</body>
+</html>
